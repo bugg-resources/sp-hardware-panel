@@ -1,0 +1,32 @@
+Project
+-------
+safeproject-panel-r1
+
+PCB specification
+-----------------
+Material: 2-layer, 1.6mm, FR4, ENIG or other planar finish
+Soldermask: white preferred, or green if it's quicker
+Silkscreen: black / white, top side only
+
+Mechanical
+----------
+Feel free to add extra framing if the mousebites are too flimsy
+
+Stack-up
+--------
+F.Cu - top side
+B.Cu - bottom side
+
+Assembly
+--------
+none
+
+Contact
+-------
+Invoice to:
+Jeff Gough
+Monad Gottfried Ltd.
+3 Essex Park Mews, London
+purchase@monad.is
++447903005844
+
