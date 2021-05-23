@@ -1,0 +1,3 @@
+[submodule "lib/jeffmakes-kicad-library"]
+	path = lib/jeffmakes-kicad-library
+	url = git@github.com:jeffmakes/jeffmakes-kicad-library.git
