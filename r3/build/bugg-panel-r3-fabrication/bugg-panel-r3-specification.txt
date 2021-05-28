@@ -1,0 +1,39 @@
+Panel
+-----
+Design stepped 4-up with 5mm borders for machine handling.
+Please note the marked area where no mouse bites or supports may be present.
+Please provide panel design for review before fabrication.
+
+Quantity: 20 panels (80 units).
+
+PCB specification
+-----------------
+Material: 4-layer, 1.6mm, 35um copper, FR4.
+Stack-up not critical - example could be:
+1-2  0.22mm
+2-3  1.00mm
+3-4  0.22mm
+Soldermask: matte black preferred, gloss black ok.
+Silkscreen: white, top side only.
+Finish: ENIG
+
+Layer order
+-----------
+F.Cu - top side
+In1.Cu - inner 1 (gnd)
+In2.Cu - inner 2
+B.Cu - bottom side
+
+Contact
+-------
+Invoice to:
+Jeff Gough
+Monad Gottfried Ltd.
+3 Essex Park Mews, London
+purchase@monad.is
++447903005844
+
+Delivery to:
+Likely direct to HCD. To be confirmed.
+
+
