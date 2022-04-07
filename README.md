@@ -1,3 +1,5 @@
+![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 # sp-hardware-panel
 
 This repository contains the KiCad source files for the panelled version of the PCBs required for the Bugg recording device (``main``, ``led``, and ``mic``). 
